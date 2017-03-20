@@ -1,0 +1,36 @@
+.MODEL SMALL
+.DATA 
+TEX DB "Hello$"
+TEN DB 24H
+MEX DW 3422H
+TEM DW 3232H
+.CODE
+ADD DX,TEN
+DIV BX
+MOV AX,BX
+XXX AAM
+MUL AX
+END
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

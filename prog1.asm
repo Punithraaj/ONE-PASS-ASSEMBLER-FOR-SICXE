@@ -1,0 +1,4 @@
+RES DB 5
+MOV AX,BX
+
+
